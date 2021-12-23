@@ -1,0 +1,2 @@
+# Mercinos
+Studying the code
